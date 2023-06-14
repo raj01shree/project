@@ -1,5 +1,5 @@
 # project
-It is a  image recognition system based on machine learning . It is capable of identifying insect images in real time .
+An image recognition system based on machine learning which is capable of identifying insect images in real time .
 
 Library used :
 - Opencv
